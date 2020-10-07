@@ -1,4 +1,3 @@
- ic.pics.livejournal.com/aneeshkodali/73853194/3174/3174_9...
  
  # ANALYZING THE EFFECTS OF COVID-19 ON THE STOCK MARKET
 
