@@ -8,8 +8,17 @@ In March 2020, the stock market experienced one of the highest drops ever as a r
 ## DATA
 The data was sourced from Yahoo finance and Kaggle. Data was cleaned using python language.
 
-## VISUALS
-The visuals were completed using pandas and matplotlib python libraries. 
+## Tools
+Pandas, Numpy.
+
+OS, Time.
+
+Requests.
+
+Json.
+
+Plotly.
+
 
 ## RESULTS
 There was a negative relationship in most Airline, Technology, and Oil and Gas companies that we analyzed. However, for Pharmaceuticals such as Clorox, there was definite positive relation between the rise of COVID-19 in the United States and its stock sales
