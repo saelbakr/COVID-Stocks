@@ -1,5 +1,7 @@
  
  # ANALYZING THE EFFECTS OF COVID-19 ON THE STOCK MARKET
+ ![image](https://user-images.githubusercontent.com/59836808/97142950-b86d3a80-172f-11eb-8fb9-c1c0c78c3af1.png)
+
 
 ## BACKGROUND
 
